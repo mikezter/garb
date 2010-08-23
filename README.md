@@ -201,7 +201,7 @@ Requirements
 ------------
 
   * crack >= 0.1.6
-  * active_support >= 2.2.0
+  * active_support -> 2.2.0
 
 Requirements for Testing
 ------------------------
